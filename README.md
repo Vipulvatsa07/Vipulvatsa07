@@ -29,13 +29,14 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; 
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=expressjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)
-![Next.js](https://img.shields.io/badge/-Next-05122A?style=flat-square&logo=Next.js)
+
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku)
+<!-- ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku) -->
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat-square&logo=vercel)
 
+![Next.js](https://img.shields.io/badge/-Next-05122A?style=flat-square&logo=Next.js)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
