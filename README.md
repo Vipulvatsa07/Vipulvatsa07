@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vipul Vatsa</h1>
-<h3 align="center"  >I’m an aspiring full-stack web developer. I am keen to learn new things and explore different areas of knowledge. My passion for learning and implementing new skills on new projects drives me to constantly acquire new knowledge.</h3>
+  <h1 align="center">Hi 👋👏नमस्ते, I'm Vipul</h1>
+<h3 align="center">Analytical and detail-oriented aspiring Full Stack Web Developer. Capable of writing production-ready code using MERN stack. Passionate about coding and intensely interested in working in a product-based company.</h3>
+<img width="100%"  src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="" />
 
 
 Here are some ideas to get you started:
