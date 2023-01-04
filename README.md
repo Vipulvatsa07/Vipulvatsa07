@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sunil Singh Rathor</h1>
+<h3 align="center"  >I’m an aspiring full-stack web developer. I am keen to learn new things and explore different areas of knowledge. My passion for learning and implementing new skills on new projects drives me to constantly acquire new knowledge.</h3>
 
 
 Here are some ideas to get you started:
