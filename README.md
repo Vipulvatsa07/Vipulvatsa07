@@ -49,7 +49,27 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/home">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<!-- <a href="https://stackoverflow.com/users/19332686/sunil-singh-rathore">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackOverflow"/>
-</a>      
-      <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> -->
+## 📊 My Github Stats
+  <br/>
+    <a href="https://github.com/Vipulvatsa07/github-readme-stats"><img alt="Vipul vatsa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vipulvatsa07&show_icons=true&count_private=true&theme=vision-friendly-dark" /></a><br/><br/>
+ <a href="https://github.com/Vipulvatsa07/github-readme-stats">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipulvatsa07&&theme=highcontrast" alt="Vipulvatsa07" />
+ </a>
+ 
+  <br/>
+  <br/>
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+
+<br/>
+<br/>
+
+<p>
+  <a href="https://github.com/Vipulvatsa07/github-readme-stats"><img alt="Vipul vatsa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipulvatsa07&langs_count=8&count_private=true&exclude_repo=Vipulvatsa07.github.io,c3,test,web-Coding,ZaraWeb-Clone&theme=vision-friendly-dark" /></a>
+ </p>
+
+<br/>
+
+<!-- <a href="https://github.com/nilamkhose2001/github-readme-activity-graph"><img alt="nilamkhose's Activity Graph" src="github-readme-activity-graph.cyclic.app/graph?username=nilamkhose2001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+ 
+ [![Nilam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vipulvatsa07&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Vipulvatsa07/github-readme-activity-graph&theme=vision-friendly-dark)
+<br/>
