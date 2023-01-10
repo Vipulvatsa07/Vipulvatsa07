@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/home">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
+<br/>
 ## 📊 My Github Stats
   <br/>
     <a href="https://github.com/Vipulvatsa07/github-readme-stats"><img alt="Vipul vatsa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vipulvatsa07&show_icons=true&count_private=true&theme=vision-friendly-dark" /></a><br/><br/>
