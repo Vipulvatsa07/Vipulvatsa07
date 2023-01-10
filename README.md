@@ -51,7 +51,10 @@ Here are some ideas to get you started:
 </a>
 <br/>
 ## 📊 My Github Stats
+
   <br/>
+    <br/>
+      <br/>
     <a href="https://github.com/Vipulvatsa07/github-readme-stats"><img alt="Vipul vatsa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vipulvatsa07&show_icons=true&count_private=true&theme=vision-friendly-dark" /></a><br/><br/>
  <a href="https://github.com/Vipulvatsa07/github-readme-stats">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipulvatsa07&&theme=highcontrast" alt="Vipulvatsa07" />
