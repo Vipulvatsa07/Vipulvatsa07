@@ -10,7 +10,6 @@
 
 
 - 🌱  I’m currently learning **ReactJS**, **NodeJS**, **MongoDB**, **ExpressJS**, **TypeScript**
-- 👨‍💻 All of my projects are available at [Portfolio](https://Vipulvatsa07.github.io/)
 - ✉️ You can contact me at **vatsavipul.8@gmail.com**
 - 🤝 I'm open to collaborating on Interesting Projects
 - ⚡ Fun fact -->  **65.36%** developers use **JavaScript** among programming languages worldwide as of 2022
